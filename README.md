@@ -40,4 +40,9 @@ Users and potential users are encouraged to review the MMF product plan, availab
 Feedback is also welcome via this repository.
 A selection of potential users representing a wide range of applications and global interests is engaged in technical user group feedback workshops which also helps guide MMF development and demonstration material.
 
+For more information, the product development team can be contacted at:
+Meghan.Mooney@nlr.gov
+Bryan.Palmintier@nlr.gov
+Nadia.Panossian@nlr.gov
+
 Updates to this repository will be made when source code is ready for stakeholder review and engagement in the coming months. Notice will be provided to all engaged users and potential users when the MMF is opensourced and demonstration examples are available.
